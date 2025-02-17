@@ -32,11 +32,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📊 Example Results
-| Timeframe | Quantum Model Prediction |
-|-----------|--------------------------|
-| 1 Month   | Bearish 📉 |
-| 6 Days    | Neutral ⚖️ |
+## 📊 Results
+We tested the quantum stock market predictor on different time intervals, and the results varied:
+
+| Time Interval | Quantum Prediction | RSI | MACD | SMA |
+|--------------|-----------------|-----|------|-----|
+| 1 Month     | Bearish 📉       | Neutral | Mixed | Downtrend |
+| 6 Days      | Bullish 📈       | Neutral | Mixed | Uptrend |
 
 ## 📌 Future Enhancements
 - Improve Quantum Model accuracy.
