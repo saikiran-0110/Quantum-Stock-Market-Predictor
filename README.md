@@ -29,7 +29,7 @@ cd Quantum-Stock-Market-Predictor
 pip install -r requirements.txt
 
 # Run the model
-python main.py
+Run the Jupyter Notebook in Google Colab
 ```
 
 ## 📊 Results
